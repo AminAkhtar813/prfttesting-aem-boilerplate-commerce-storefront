@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/AminAkhtar813/prfttesting-aem-boilerplate-commerce-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
